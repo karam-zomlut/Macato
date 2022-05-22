@@ -53,6 +53,8 @@
 
 ## User Flow🎨
 ## User Journey📝
+> Live Link: [Here](https://miro.com/app/board/uXjVOyq-f1U=/?share_link_id=833402202313)
+
 ![GFS](https://user-images.githubusercontent.com/63299107/169716302-e09495ad-221e-4af4-97ab-58a1e0211acd.jpg)
 
 

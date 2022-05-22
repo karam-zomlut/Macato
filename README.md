@@ -27,9 +27,7 @@
 - I will be able to cancel a booking.
 - I will be able to submit a review for the chef.
 - I will be able to see the total amount of money that I have earned.
-
-
-
+- I will be able to pay online or by cash.
 - I will be able to view my profile.
 - I will be able to edit my profile.
 

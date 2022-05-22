@@ -30,5 +30,24 @@
 - I will be able to pay online or by cash.
 - I will be able to view my profile.
 - I will be able to edit my profile.
-
 - I will be able to logout.
+
+**As a Chef:**
+- I will be able to create an account.
+- I will be able to login.
+- I will be able to add a menu.
+- I will be able to add a price.
+- I will be able to add a cuisine.
+- I will be able to add a type of food.
+- I will be able to add a type of meal.
+- I will be able to add a type of equipment.
+- I will be able to add a type of ingredient.
+- I will be able to see clients' booking details.
+- I will be able to see my booking details.
+- I will be able to see clinet's reviews.
+- I will be able to see my reviews.
+- I will be able to submit a review for the client.
+- I will be able to see my profile.
+- I will be able to edit my profile.
+- I will be able to logout.
+

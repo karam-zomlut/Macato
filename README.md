@@ -53,6 +53,6 @@
 
 ## User Flow🎨
 ## User Journey📝
-
+![GFS](https://user-images.githubusercontent.com/63299107/169716302-e09495ad-221e-4af4-97ab-58a1e0211acd.jpg)
 
 

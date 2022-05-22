@@ -51,3 +51,8 @@
 - I will be able to edit my profile.
 - I will be able to logout.
 
+## User Flow🎨
+## User Journey📝
+
+
+
